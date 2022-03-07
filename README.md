@@ -1,3 +1,4 @@
+[New Text Document.txt](https://github.com/Monica-Dan/WP-Assesment.github.io/files/8196778/New.Text.Document.txt)
 # Author: Monica Danial
 # Description: I have created a Wordpress woocommerce store with products that have two new attributes showing up under each product on the shop page using local server             application: WordPress, WooCommerce and the default 2021 / 2022 Theme.
 
