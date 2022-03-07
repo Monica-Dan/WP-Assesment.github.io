@@ -3,10 +3,10 @@
 # Description: I have created a Wordpress woocommerce store with products that have two new attributes showing up under each product on the shop page using local server             application: WordPress, WooCommerce and the default 2021 / 2022 Theme.
 
 # Steps of downloading the server, database, and create the child theme:
-// Dowenload and install a local server, I used WampServer.
-// Dowenload WordPress from wordpress.org and follow steps to install it.
-// Create the database from the WAMP server (go to PhPMyAdmin). I created my database under monicadb.
-// Continue installing WordPress after adding some information like username, password, and email.
+Dowenload and install a local server, I used WampServer.
+Dowenload WordPress from wordpress.org and follow steps to install it.
+Create the database from the WAMP server (go to PhPMyAdmin). I created my database under monicadb.
+Continue installing WordPress after adding some information like username, password, and email.
 Now, you will be able to open your WordPress dashboard and the Twenty-Twenty-Two theme is active.
 In order to modify the theme, we should create a Child Theme.
 install Child Themify plugin in Wordpress and create the Twenty Twenty Two child theme to make some changes.
